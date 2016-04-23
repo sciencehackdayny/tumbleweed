@@ -5,8 +5,8 @@
 
 * Katelyn Hertel [@Katers_Potaters](https://twitter.com/Katers_Potaters)
 * Robby Kraft
-* Ughtam Grandhi
-* Manni Mendoza
+* Uttam Grandhi
+* Manny Mendoza
 * Andrew Hill
 
 
