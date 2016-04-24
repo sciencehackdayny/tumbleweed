@@ -1,5 +1,7 @@
-# tumbleweed
+# TUMBLEWEED
 [project] team "stellar folds" making origami inspired industrial design for space apps 2016
+
+![](https://raw.githubusercontent.com/sciencehackdayny/tumbleweed/master/tumbleweed-outside.gif)
 
 ## TEAM MEMBERS
 
@@ -8,6 +10,10 @@
 * Uttam Grandhi [@2kool2resist](https://twitter.com/2kool2resist)
 * Manny Mendoza [@ManiMazzer](https://twitter.com/ManiMazzer)
 * Andrew Hill [@andrewxhill](https://twitter.com/andrewxhill)
+
+## VIDEO
+
+[https://www.youtube.com/watch?v=QGDbVsoWmXE](https://www.youtube.com/watch?v=QGDbVsoWmXE)
 
 ## PURPOSE 
 
