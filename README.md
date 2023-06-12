@@ -7,7 +7,7 @@
 
 * Katelyn Hertel [@Katers_Potaters](https://twitter.com/Katers_Potaters)
 * Robby Kraft [@RobbyKraft](https://twitter.com/RobbyKraft)
-* Uttam Grandhi [@2kool2resist](https://twitter.com/2kool2resist)
+* Uttam Grandhi [@uttamg911](https://twitter.com/uttamg911)
 * Manny Mendoza [@ManiMazzer](https://twitter.com/ManiMazzer)
 * Andrew Hill [@andrewxhill](https://twitter.com/andrewxhill)
 
